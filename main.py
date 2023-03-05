@@ -58,4 +58,4 @@ async def on_ready():
   tprint("Bot Online \n use     !ask")
 
 
-bot.run('MTA4MTA0MTU5MDk2Mjg4MDU4NA.GByRxP.JTUGBpY3-S6jo1qNAAWploRNkVD9e5-7clxGP8')
+bot.run('')
